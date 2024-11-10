@@ -24,7 +24,7 @@ export default function Home() {
   }, []);
 
   return (
-    <main className="bg-[#310a25]">
+    <main className="bg-[#310a25]  px-20">
       <Navbar />
       <Hero />
       <Skills />
